@@ -69,7 +69,7 @@ appium
 ```
 
 ## Тесты
-
+src/test/java/com/example/tests
 ### Веб-тесты
 Просто запустить файл в ide
 ### Мобильные тесты

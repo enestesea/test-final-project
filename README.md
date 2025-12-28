@@ -52,17 +52,17 @@ source ~/.zshrc
       Должно показать:
       emulator-5554    device
 
-### 6. Установка Wikipedia на эмулятор
+6. Установка Wikipedia на эмулятор
 
 Через APK:
 ```bash
 adb install путь_к_файлу/wikipedia.apk
 ```
 
-### 6. Настройка проекта
+7. Настройка проекта
 Заменить `emulator-5554` на имя вашего устройства
 
-### 7. Запуск Appium Server
+8. Запуск Appium Server
 
 ```bash
 appium
